@@ -4,8 +4,15 @@
 
 Для получения графиков использовал Tensorboard.
 
-Функци потерь
+Графики функции потерь
 
-Метрики точности
+![Image alt](https://github.com/TorbenkoEgor/Lab_1/blob/master/epoch_loss.png)
+![Image alt](https://github.com/TorbenkoEgor/Lab_1/blob/master/epoch_val_loss.png)
 
-Итоговая точность на тестовых данных 
+
+Графики метрики точности
+
+![Image alt](https://github.com/TorbenkoEgor/Lab_1/blob/master/epoch_acc.png)
+![Image alt](https://github.com/TorbenkoEgor/Lab_1/blob/master/epoch_val_acc.png)
+
+Итоговая точность на тестовых данных 0.4770
